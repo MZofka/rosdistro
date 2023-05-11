@@ -1869,6 +1869,7 @@ ignition-cmake2:
   ubuntu:
     focal: [libignition-cmake2-dev]
     jammy: [libignition-cmake2-dev]
+    bionic: [libignition-cmake2-dev]
 ignition-common3:
   debian:
     buster: [libignition-common3-dev]
@@ -1930,6 +1931,7 @@ ignition-gazebo6:
   ubuntu:
     focal: [libignition-gazebo6-dev]
     jammy: [libignition-gazebo6-dev]
+    binoic: [libignition-gazebo6-dev]
 ignition-gazebo6-plugins:
   debian:
     buster: [libignition-gazebo6-plugins]
@@ -1999,6 +2001,7 @@ ignition-msgs8:
   ubuntu:
     focal: [libignition-msgs8-dev]
     jammy: [libignition-msgs8-dev]
+    bionic: [libignition-msgs8-dev]
 ignition-physics2:
   debian:
     buster: [libignition-physics2-dev]
@@ -2071,6 +2074,7 @@ ignition-transport11:
   ubuntu:
     focal: [libignition-transport11-dev]
     jammy: [libignition-transport11-dev]
+    bionic: [libignition-transport11-dev]
 ignition-transport8:
   debian:
     buster: [libignition-transport8-dev]
